@@ -1,0 +1,2 @@
+# BOThida
+Bot Discord
